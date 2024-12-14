@@ -1,0 +1,9 @@
+:root {
+    --box-border-radius: 10px;
+
+    --first-screen-font-size: 49px;
+
+    --first-screen-font-color-light: rgba(255, 255, 255, 0.9);
+
+    --first-screen-font-color-dark: rgba(255, 255, 255, 0.9);
+}
